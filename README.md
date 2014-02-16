@@ -1,1 +1,1 @@
-## we-theme-default
+## sails-we-theme-default

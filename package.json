@@ -1,6 +1,6 @@
 {
-  "name": "we-theme-default",
-  "description": "Default WE theme.",
+  "name": "sails-we-theme-default",
+  "description": "Default server side WE theme.",
   "version": "0.0.1",
   "repository": {
     "url": ""
